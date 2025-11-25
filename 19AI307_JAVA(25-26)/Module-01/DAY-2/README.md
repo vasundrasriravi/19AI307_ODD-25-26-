@@ -73,3 +73,4 @@ public class Main
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
 
+
