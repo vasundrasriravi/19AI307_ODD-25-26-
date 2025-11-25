@@ -50,7 +50,8 @@ public class Main
 }
 ```
 ## OUTPUT:
-<img width="864" height="448" alt="image" src="https://github.com/user-attachments/assets/cd79b650-a46b-4221-ab6f-d24541f47da1" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/cd79b650-a46b-4221-ab6f-d24541f47da1" />
 
 ## RESULT:
 Thus, the Java program was successfully written and executed to demonstrate the different printing methods in Java.
+
