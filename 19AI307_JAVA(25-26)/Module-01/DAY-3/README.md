@@ -59,8 +59,9 @@ public class Main
 ```
 ## OUTPUT:
 
-<img width="602" height="319" alt="image" src="https://github.com/user-attachments/assets/e4a9b053-2ab2-4c4b-ad4b-3d81ca99a0ad" />
+<img width="500" height="319" alt="image" src="https://github.com/user-attachments/assets/e4a9b053-2ab2-4c4b-ad4b-3d81ca99a0ad" />
 
 
 ## RESULT:
 The program successfully reverses the input number and prints the result.
+
