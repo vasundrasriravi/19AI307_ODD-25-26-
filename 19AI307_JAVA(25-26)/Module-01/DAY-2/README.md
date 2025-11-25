@@ -67,8 +67,9 @@ public class Main
 ```
 ## OUTPUT:
 
-<img width="522" height="372" alt="image" src="https://github.com/user-attachments/assets/9b06b53b-1f4d-4ed6-8b94-a57d7ac6a7d2" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/9b06b53b-1f4d-4ed6-8b94-a57d7ac6a7d2" />
 
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
