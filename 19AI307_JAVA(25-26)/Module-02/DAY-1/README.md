@@ -15,7 +15,6 @@ To create a class Car with attributes brand, model, and year, then create two ob
 6. Print the details of Car 1.
 7. Print the details of Car 2.
 8. End the program.
-9. 
 ## PROGRAM:
  ```
 /*
@@ -56,8 +55,9 @@ public class Main
 ```
 ## OUTPUT:
 
-<img width="622" height="250" alt="image" src="https://github.com/user-attachments/assets/7d58d22c-1eed-4a19-ae47-4069a2d07d88" />
+<img width="622" height="319" alt="image" src="https://github.com/user-attachments/assets/7d58d22c-1eed-4a19-ae47-4069a2d07d88" />
 
 
 ## RESULT:
 Thus, the Java program using classes and objects was successfully written and executed to create two Car objects and display their details.
+
