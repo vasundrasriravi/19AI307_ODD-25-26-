@@ -47,8 +47,9 @@ public class Main
 ```
 ## OUTPUT:
 
-<img width="871" height="551" alt="image" src="https://github.com/user-attachments/assets/9dae41dd-8360-4832-85dd-aa804a582bba" />
+<img width="601" height="319" alt="image" src="https://github.com/user-attachments/assets/9dae41dd-8360-4832-85dd-aa804a582bba" />
 
 
 ## RESULT:
 The program successfully calculates and displays the average of the array elements.
+
